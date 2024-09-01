@@ -1,6 +1,0 @@
-class TSGenerator():
-    def __init__(self,ts):
-        self.ts = ts
-
-class SDACGenerator(TSGenerator):
-    pass
